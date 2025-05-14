@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MENSI672
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python and improving my Problem-solving skills
+- 💞️ I’m looking to collaborate on : Beginner-friendly open source projects to improve my coding skills
+- ⚡ Fun fact: I use AI to learn faster, not to cheat ok😅
